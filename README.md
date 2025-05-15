@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Project Layout
 
-```json
+```bash
 faq_chatbot_fastapi/
 ├── app/
 │   ├── __init__.py
