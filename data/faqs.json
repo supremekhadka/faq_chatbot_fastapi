@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What are your business hours?",
+    "answer": "Our business hours are Monday to Friday, 9 AM to 6 PM."
+  },
+  {
+    "id": 2,
+    "question": "How can I reset my password?",
+    "answer": "You can reset your password by clicking the 'Forgot Password' link on the login page."
+  },
+  {
+    "id": 3,
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, we offer free shipping on all orders over $50. Orders below $50 have a flat shipping rate of $5.99."
+  },
+  {
+    "id": 4,
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 30 days of purchase. Items must be in original condition with tags attached. Please include your order number with the return."
+  },
+  {
+    "id": 5,
+    "question": "How can I track my order?",
+    "answer": "You can track your order by logging into your account and visiting the 'Order History' section, or by using the tracking number provided in your shipping confirmation email."
+  },
+  {
+    "id": 6,
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to most countries worldwide. International shipping rates vary based on destination and package weight."
+  },
+  {
+    "id": 7,
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our customer support team by email at support@example.com or by phone at 1-800-555-1234 during business hours."
+  },
+  {
+    "id": 8,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, Mastercard, American Express), PayPal, and Apple Pay."
+  },
+  {
+    "id": 9,
+    "question": "How long does shipping take?",
+    "answer": "Domestic orders typically arrive within 3-5 business days. International orders may take 7-14 business days depending on the destination."
+  },
+  {
+    "id": 10,
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, we offer gift wrapping for an additional $5 per item. You can select this option during checkout."
+  },
+  {
+    "id": 11,
+    "question": "Where is my order confirmation?",
+    "answer": "Order confirmations are sent to the email address provided during checkout. Please check your spam folder if you haven't received it within 24 hours."
+  },
+  {
+    "id": 12,
+    "question": "Can I change or cancel my order?",
+    "answer": "Orders can be modified or canceled within 2 hours of placement. Please contact customer support immediately if you need to make changes."
+  },
+  {
+    "id": 13,
+    "question": "Do you have a physical store location?",
+    "answer": "Yes, our flagship store is located at 123 Main Street, Boston, MA. We also have smaller locations in New York, Chicago, and San Francisco."
+  },
+  {
+    "id": 14,
+    "question": "How do I know if an item is in stock?",
+    "answer": "Product pages display current inventory status. If an item is out of stock, you can sign up for email notifications when it becomes available again."
+  },
+  {
+    "id": 15,
+    "question": "Do you offer price matching?",
+    "answer": "Yes, we offer price matching for identical items from authorized retailers. Please contact customer support with evidence of the lower price."
+  }
+]
