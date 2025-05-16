@@ -29,9 +29,3 @@ jobs:
           python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
           pip install -r requirements-dev.txt
-
-      - name: Install specific dependencies for Python 3.8 and 3.9
-        if: matrix.python-version == '3.8' || matrix.python-version == '3.9'
-        run: |
-          pip install "fastapi<0.90.0"  # Example: Pin an older version
-          # Add other problematic packages with
