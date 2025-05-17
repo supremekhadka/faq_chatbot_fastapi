@@ -24,7 +24,7 @@ This is a FastAPI-based chatbot application that answers questions based on a pr
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/supremekhadka/faq_chatbot_fastapi.git
     cd faq_chatbot_fastapi
     ```
 
